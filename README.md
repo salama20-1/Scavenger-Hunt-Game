@@ -1,12 +1,28 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/2rGsAIMQ)
-# COE2SH4-PPA3Template
-Project Preparation Activity 3
+🕹️ How to Run the Scavenger Hunt Game
 
-You must watch the briefing video and read through the manual to engage in the development activities.
+Download or clone the repository:
+git clone https://github.com/salama20-1/Scavenger-Hunt-Game.git
+
+Build the project using make:
+
+make
 
 
-Section: [L08]
+Run the game:
 
-MacID: [salama20]
+./ppa3
 
-StudentID: [400511917]
+
+Controls & Gameplay:
+
+Use W / A / S / D to move up, left, down, and right.
+
+Collect hidden items scattered around the game board.
+
+The game tracks how many items you’ve found.
+
+Avoid invalid moves (walls or obstacles).
+
+Press Q at any time to quit.
+
+🎉 Enjoy exploring and finding all the items in the hunt!
